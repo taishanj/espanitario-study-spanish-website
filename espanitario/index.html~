@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<!--Spanish CSEC Exam Preparation Website-->
+<!--Start Date: 22/1/2017  Upload Date: -->
+<!--Creator: TaishanJ Contact: -->
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="CSS Docs/homeCSS.css">
+<script src="HomeJS.js"></script>
+</head>
+
+<body>
+	<!--promo image or banner-->
+	<div class="page-header">
+	<img class="banner-img" src="##" alt="Bienvenidos!">
+	</div>
+	
+	<!--Top navigation menu with key site areas and contact -->
+	<ul class="topnav" id="myTopnav">
+		<li><a class="active" href="index.html">HOME</a></li>
+		<li><a href="worksheets.html">WORKSHEETS</a></li>
+		<li><a href="studyApps.html">STUDY APPS</a></li>
+		<li><a href="readingComp.html">READING MCQ</a></li>
+		<li><a href="grammarComp.html">GRAMMAR MCQ</a></li>
+                <li><a href="OralQuestions.html">ORAL EXAM</a></li>
+		<li><a href="imagesComp.html"> 100 WORDS</a></li>
+		<li><a href="FunStuff.html">FUN STUFF</a></li>
+                <li><a href="SituationsWritten.html">SITUATIONS</a></li>
+		<li class="icon">
+			 <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
+		</li>
+	</ul>
+	<div id="radio">
+	<audio controls>
+		<source src="http://i60.letio.com/9120.aac" type="audio/mpeg" style="background-color:lightblue">
+	</audio>
+	<p>Press play above for Colombian radio.<br>
+		Listen for 5 minutes per day or until you hear 10 words you know.</p>
+	</div><!--end radio div-->
+	
+	<div class="welcome"><h2>Where does Spanish come from?</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ACQX5nMl2wQ" frameborder="0" allowfullscreen></iframe>
+
+        
+        <p>Espanitario.com hopes to offer you lots of interesting information about Spanish language,culture and history. 
+
+	</p></div>
+        
+
+        <div class="welcome2"><h2>The Spanish Empire</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rjhIzemLdos" frameborder="0" allowfullscreen></iframe>
+        
+
+        <p>Check out the video to learn more. </p>
+
+	</p></div>
+        
+        
+
+
+	
+</body>
+</html>
+	

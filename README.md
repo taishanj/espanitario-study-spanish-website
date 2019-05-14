@@ -1,5 +1,5 @@
 # espanitario-study-spanish-website
-A  Spanish learner website with videos, worksheets, multiple choice grammar and vocabulary quizzest etc.
+A  Spanish learner website with videos, worksheets, multiple choice grammar and vocabulary quizzes etc.
 
 This website is designed for students of the CSEC Caribbean High School exams or for students of the GCSE exams. It contains great content for Spanish learners such as lesson videos, worksheets, quiz applets for new vocabulary, reading comprehension, grammar practice. It also offers a range of Oral exam practice questions.
 
